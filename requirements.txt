@@ -1,0 +1,9 @@
+easyocr==1.7.2
+fastapi==0.116.1
+pdfplumber==0.11.7
+pillow==11.3.0
+python-multipart==0.0.20
+transformers==4.55.1
+ultralytics==8.0.21
+ultralyticsplus==0.0.23
+uvicorn[standard]
